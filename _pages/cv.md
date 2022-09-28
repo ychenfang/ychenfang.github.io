@@ -11,20 +11,18 @@ redirect_from:
 
 Education
 ======
+* M.S. in Computational and Applied Mathematics, The University of Chicago, Sep. 2021 - Dec. 2022 (expected)
 * B.S. in Statistics, Xiamen University, Sep. 2017 - Jun. 2021
-* M.S. in Computational and Applied Mathematics, The University of Chicago, Sep. 2021 - Dec. 2022 
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-News
+
+Submitted Papers
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
+Workshop Papers
+======
 
+Professional Service
+======
+* Conference Reviewer:\\
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
