@@ -29,5 +29,5 @@ Professional Service
 
 Skills
 ====
-\textbf{Programming Languages:} R, Python, MATLAB, Julia, C, \LaTeX\\
-\textbf{Languages:} Native in Mandarin, fluent in English
+* Programming Languages: R, Python, MATLAB, Julia, C, LaTeX
+* Languages: Native in Mandarin, fluent in English
