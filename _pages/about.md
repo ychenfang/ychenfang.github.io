@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "aaa"
+title: "Yuchen Fang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,4 +10,4 @@ redirect_from:
 
 This is Yuchen Fang's Homepage!
 
-+Lorem ipsum.
+
