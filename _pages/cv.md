@@ -26,3 +26,8 @@ Professional Service
 ======
 * Conference Reviewer: 
   * International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
+
+Skills
+====
+\textbf{Programming Languages:} R, Python, MATLAB, Julia, C, \LaTeX\\
+\textbf{Languages:} Native in Mandarin, fluent in English
