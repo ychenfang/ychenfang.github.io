@@ -24,5 +24,6 @@ Workshop Papers
 
 Professional Service
 ======
-* Conference Reviewer:\\
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
+* Conference Reviewer:
+
+ International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
