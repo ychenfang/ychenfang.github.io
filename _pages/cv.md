@@ -23,19 +23,13 @@ Submitted Papers
   
 Workshop Papers
 ======
-### Trust-Region Sequential Quadratic Programming for Equality-Constrained Stochastic Optimization with Random Models: First-Order Stationarity 
-(workshop version) [Link](https://www.dropbox.com/s/385ch07gldbrier/HOOWorkshop_TR-SQP-STORM_First_Order_Stationarity.pdf?dl=0)
-
+### Trust-Region Sequential Quadratic Programming for Equality-Constrained Stochastic Optimization with Random Models: First-Order Stationarity (workshop version) [Link](https://www.dropbox.com/s/385ch07gldbrier/HOOWorkshop_TR-SQP-STORM_First_Order_Stationarity.pdf?dl=0)
 Yuchen Fang, Sen Na and Mladen Kolar
+*Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS Workshop*
 
-*Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS Workshop
-
-### Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems 
-(workshop version) [Link](https://www.dropbox.com/s/fkkajoy3ue3o4ix/HOOWorkshop_TR-StoSQP.pdf?dl=0)
-
+### Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems (workshop version) [Link](https://www.dropbox.com/s/fkkajoy3ue3o4ix/HOOWorkshop_TR-StoSQP.pdf?dl=0)
 Yuchen Fang, Sen Na and Mladen Kolar
-
-*Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS Workshop
+*Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS Workshop*
 
 Professional Service
 ======
