@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master student in Computational and Applied Mathematics at the University of Chicago. I am honored to be advised by Prof. [Mladen Kolar](https://www.chicagobooth.edu/faculty/directory/k/mladen-kolar), and Dr. [Sen Na](https://mkolar.coffeejunkies.org/authors/sen-na/) on my research. I am also glad to receive supervision from Prof. [Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/) and Prof. [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on my master's thesis and projects.
+I am a second-year master student in Computational and Applied Mathematics at the University of Chicago. I am honored to be advised by Prof. [Mladen Kolar](https://www.chicagobooth.edu/faculty/directory/k/mladen-kolar), and Dr. [Sen Na](https://mkolar.coffeejunkies.org/authors/sen-na/) on my research. I am also glad to receive supervision from Prof. [Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/) and Prof. [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on my master's thesis and projects. Prior to UChicago, I received my bachelor's degree in Statistics from Xiamen University, where I was advised by Prof. [Yingxing Li](https://wise.xmu.edu.cn/english/info/1062/1347.htm) on my undergraduate thesis.
 
-My research interests are stochastic nonlinear optimization, numerical linear algebra, high-dimensional statistics, statistical learning and mathematical finance.
+Research Interests
+===
+* stochastic nonlinear optimization
+* numerical linear algebra
+* high-dimensional statistics
+* statistical learning
+* mathematical finance
 
-Prior to UChicago, I received my bachelor's degree in Statistics from Xiamen University, where I was advised by Prof. [Yingxing Li](https://wise.xmu.edu.cn/english/info/1062/1347.htm) on my undergraduate thesis.
+
 
 
 News
