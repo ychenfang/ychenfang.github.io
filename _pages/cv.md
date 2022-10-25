@@ -21,11 +21,20 @@ Submitted Papers
   
 Workshop Papers
 ======
+\textbf{Trust-Region Sequential Quadratic Programming for Equality-Constrained Stochastic Optimization with Random Models: First-Order Stationarity} (workshop version) \href{https://www.dropbox.com/s/385ch07gldbrier/HOOWorkshop_TR-SQP-STORM_First_Order_Stationarity.pdf?dl=0}{[Link]}\\
+Yuchen Fang, Sen Na and Mladen Kolar\\
+\textit{Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS Workshop} \\
+\vspace{5pt}
+\textbf{Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems} (workshop version) \href{https://www.dropbox.com/s/fkkajoy3ue3o4ix/HOOWorkshop_TR-StoSQP.pdf?dl=0}{[Link]}\\
+Yuchen Fang, Sen Na and Mladen Kolar\\
+\textit{Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS Workshop} \\
 
 Professional Service
 ======
 * Conference Reviewer: 
   * International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
+* Grader:
+  * STAT 37710, the University of Chicago, Autumn 2022
 
 Skills
 ====
