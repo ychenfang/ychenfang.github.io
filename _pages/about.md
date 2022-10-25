@@ -17,7 +17,7 @@ Prior to UChicago, I received my bachelor's degree in Statistics from Xiamen Uni
 
 News
 ===
-### Oct. 20 Two papers are accepted by Higher-Order Optimization for Machine Learning (HOOML) 2022, NeuIPS Workshop  
-Trust-Region Sequential Quadratic Programming for Equality-Constrained Stochastic Optimization with Random Models: First-Order Stationarity (workshop version) [Link](https://www.dropbox.com/s/385ch07gldbrier/HOOWorkshop_TR-SQP-STORM_First_Order_Stationarity.pdf?dl=0)
+### October 2022: Two papers are accepted by the NeuIPS Workshop Higher-Order Optimization for Machine Learning (HOOML) 2022 
+[Trust-Region Sequential Quadratic Programming for Equality-Constrained Stochastic Optimization with Random Models: First-Order Stationarity (workshop version)](https://www.dropbox.com/s/385ch07gldbrier/HOOWorkshop_TR-SQP-STORM_First_Order_Stationarity.pdf?dl=0)
 
-Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems (workshop version) [Link](https://www.dropbox.com/s/fkkajoy3ue3o4ix/HOOWorkshop_TR-StoSQP.pdf?dl=0)  
+[Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems (workshop version)](https://www.dropbox.com/s/fkkajoy3ue3o4ix/HOOWorkshop_TR-StoSQP.pdf?dl=0)  
