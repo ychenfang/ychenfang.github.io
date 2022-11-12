@@ -25,6 +25,6 @@ Research Interests
 
 News
 ===
-### November 2022: Present at Computational and Applied Mathematics (CAM) Seminar at UChicago.
+### Nov. 2022: Present at Computational and Applied Mathematics (CAM) Seminar at UChicago.
 
-### October 2022: Two papers are accepted by the NeuIPS Workshop [Higher-Order Optimization in Machine Learning (HOOML) 2022](https://order-up-ml.github.io)
+### Oct. 2022: Two papers are accepted by the NeuIPS Workshop [Higher-Order Optimization in Machine Learning (HOOML) 2022](https://order-up-ml.github.io)
