@@ -29,7 +29,7 @@ Yuchen Fang, Sen Na and Mladen Kolar
 Submitted Papers
 ======
 ### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems (full version)](https://arxiv.org/abs/2211.15943)
-Yuchen Fang, Sen Na, Michael Mahoney and Mladen Kolar  
+Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
 Submitted to *SIAM Journal on Optimization*
 
 Professional Service
