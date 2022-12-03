@@ -25,10 +25,10 @@ Research Interests
 
 News
 ===
-### Dec. 2022: Present at Higher-Order Optimization in Machine Learning (HOOML) 2022 NeuIPS Workshop
+### Dec. 2022: Present at Higher-Order Optimization in Machine Learning (HOOML) 2022 NeurIPS Workshop
 
 ### Nov. 2022: A new paper [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://arxiv.org/abs/2211.15943) is available on arXiv and submitted.
 
 ### Nov. 2022: Present at Computational and Applied Mathematics (CAM) Seminar at UChicago.
 
-### Oct. 2022: Two papers are accepted by the NeuIPS Workshop [Higher-Order Optimization in Machine Learning (HOOML) 2022](https://order-up-ml.github.io)
+### Oct. 2022: Two papers are accepted by the NeurIPS Workshop [Higher-Order Optimization in Machine Learning (HOOML) 2022](https://order-up-ml.github.io)
