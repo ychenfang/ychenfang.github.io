@@ -16,7 +16,7 @@ Education
 
 Submitted Papers
 ======
-### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems (full version)](https://arxiv.org/abs/2211.15943)
+### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://arxiv.org/abs/2211.15943)
 Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
 Submitted to *SIAM Journal on Optimization*
 
