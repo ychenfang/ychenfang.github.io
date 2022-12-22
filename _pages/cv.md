@@ -14,6 +14,11 @@ Education
 * M.S. in Computational and Applied Mathematics, The University of Chicago, Sep. 2021 - Dec. 2022
 * B.S. in Statistics, Xiamen University, Sep. 2017 - Jun. 2021
 
+Submitted Papers
+======
+### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems (full version)](https://arxiv.org/abs/2211.15943)
+Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
+Submitted to *SIAM Journal on Optimization*
 
 
 Workshop Papers
@@ -26,11 +31,17 @@ Yuchen Fang, Sen Na and Mladen Kolar
 Yuchen Fang, Sen Na and Mladen Kolar  
 *Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS Workshop*
 
-Submitted Papers
-======
-### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems (full version)](https://arxiv.org/abs/2211.15943)
-Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
-Submitted to *SIAM Journal on Optimization*
+Presentations
+=====
+### Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: First-Order Stationarity
+* Dec. 2022, Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS
+
+### Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems
+* Dec. 2022, Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS
+* Nov. 2022, Computational and Applied Mathematics (CAM) Student Seminar, the University of Chicago
+
+### Trust-Region Stochastic Sequential Quadratic Programming for Constrained Optimization
+* May 2022, ACMNTW Workshop on Optimization and Machine Learning 2022, Northwestern University
 
 Professional Service
 ======
