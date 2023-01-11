@@ -43,14 +43,14 @@ Yuchen Fang, Sen Na and Mladen Kolar
 Presentations
 =====
 ### Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: First-Order Stationarity
-* Dec. 2022, Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS
+* Dec. 2022, Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS [Poster](https://www.dropbox.com/s/d7851yay0k3546i/HOO_Poster__TR_SQP_STORM.pdf?dl=0)
 
 ### Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems
-* Dec. 2022, Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS
-* Nov. 2022, Computational and Applied Mathematics (CAM) Student Seminar, the University of Chicago
+* Dec. 2022, Higher-Order Optimization in Machine Learning (HOOML) 2022, NeurIPS [Poster](https://www.dropbox.com/s/fkgw7fg6uvypwla/HOO_Poster__TR_StoSQP.pdf?dl=0)
+* Nov. 2022, Computational and Applied Mathematics (CAM) Student Seminar, the University of Chicago [Slides](https://www.dropbox.com/s/ez5zevsyfxjflnh/CAM_Seminar_TRStoSQP.pdf?dl=0)
 
 ### Trust-Region Stochastic Sequential Quadratic Programming for Constrained Optimization
-* May 2022, ACMNTW Workshop on Optimization and Machine Learning 2022, Northwestern University
+* May 2022, ACMNTW Workshop on Optimization and Machine Learning 2022, Northwestern University [Poster](https://www.dropbox.com/s/7lv4gpv1o8lfo3c/ACMNTW_Poster.pdf?dl=0)
 
 Professional Service
 ======
