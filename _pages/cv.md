@@ -14,6 +14,14 @@ Education
 * M.S. in Computational and Applied Mathematics, The University of Chicago, Sep. 2021 - Dec. 2022
 * B.S. in Statistics, Xiamen University, Sep. 2017 - Jun. 2021
 
+
+Working Paper
+======
+### Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models
+* Originally posted as "Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: First-Order Stationarity" and "Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: Second-Order Stationarity"*
+Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
+To be submitted to *Operations Research*
+
 Submitted Papers
 ======
 ### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://arxiv.org/abs/2211.15943)
