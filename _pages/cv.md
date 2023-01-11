@@ -18,7 +18,7 @@ Education
 Working Paper
 ======
 ### Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models
-* Originally posted as "Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: First-Order Stationarity" and "Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: Second-Order Stationarity"*
+*Originally posted as "Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: First-Order Stationarity" and "Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: Second-Order Stationarity"*
 Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
 To be submitted to *Operations Research*
 
