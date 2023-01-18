@@ -22,6 +22,7 @@ Working Paper
 
 Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
 To be submitted to *Operations Research*
+[Manuscript is available](https://www.dropbox.com/s/ju0nxky2b2iszzi/_Journal__TR_SQP_STORM__Second_Order_Stationarity.pdf?dl=0)
 
 Submitted Papers
 ======
