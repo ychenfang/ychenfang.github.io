@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master student in Computational and Applied Mathematics at the University of Chicago, advised by Prof. [Mladen Kolar](https://www.chicagobooth.edu/faculty/directory/k/mladen-kolar) and Dr. [Sen Na](https://mkolar.coffeejunkies.org/authors/sen-na/). I also receive supervision from Prof. [Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/) and Prof. [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on my master's thesis and research projects. 
+I am an incoming Ph.D. student in the Department of Mathematics at the University of California, Berkeley. My research interests lie in optimization, with focus on stochastic optimization and nonlinear optimization. I am interested in designing algorithms with rigorous theoretical guarantees and conducting algorithm analysis. I am also interested in applying state-of-the-art optimization algorithms to solve problems in operations research, high-dimensional statistics, machine learning and finance.
 
-I received my bachelor's degree in Statistics from Xiamen University, where I was advised by Prof. [Yingxing Li](https://wise.xmu.edu.cn/english/info/1062/1347.htm) on my undergraduate thesis.
+Prior to Berkeley, I received my master's degree in Computational and Applied Mathematics from the University of Chicago, where I was advised by Prof. [Mladen Kolar](https://www.chicagobooth.edu/faculty/directory/k/mladen-kolar) and Dr. [Sen Na](https://mkolar.coffeejunkies.org/authors/sen-na/) in my research. I also received supervision from Prof. [Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/) and Prof. [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on my master's thesis and research projects. I received my bachelor's degree in Statistics from Xiamen University, where I was advised by Prof. [Yingxing Li](https://wise.xmu.edu.cn/english/info/1062/1347.htm) on my undergraduate thesis.
 
 Research Interests
 ===
