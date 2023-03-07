@@ -12,8 +12,8 @@ I am an incoming Ph.D. student in the Department of Mathematics at the Universit
 
 Prior to Berkeley, I received my master's degree in Computational and Applied Mathematics from the University of Chicago, where I was advised by Prof. [Mladen Kolar](https://www.chicagobooth.edu/faculty/directory/k/mladen-kolar) and Dr. [Sen Na](https://mkolar.coffeejunkies.org/authors/sen-na/) in my research. I also received supervision from Prof. [Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/) and Prof. [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on my master's thesis and research projects. I received my bachelor's degree in Statistics from Xiamen University, where I was advised by Prof. [Yingxing Li](https://wise.xmu.edu.cn/english/info/1062/1347.htm) on my undergraduate thesis.
 
-Research Interests
-===
+## Research Interests
+
 * stochastic nonlinear optimization
 * numerical linear algebra
 * high-dimensional statistics
@@ -23,12 +23,12 @@ Research Interests
 
 
 
-News
-===
-### Dec. 2022: Present at Higher-Order Optimization in Machine Learning (HOOML) 2022 NeurIPS Workshop.
+## News
 
-### Nov. 2022: A new paper [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://arxiv.org/abs/2211.15943) is available on arXiv and submitted.
+#### Dec. 2022: Present at Higher-Order Optimization in Machine Learning (HOOML) 2022 NeurIPS Workshop.
 
-### Nov. 2022: Present at Computational and Applied Mathematics (CAM) Seminar at UChicago.
+#### Nov. 2022: A new paper [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://arxiv.org/abs/2211.15943) is available on arXiv and submitted.
 
-### Oct. 2022: Two papers are accepted by the NeurIPS Workshop [Higher-Order Optimization in Machine Learning (HOOML) 2022](https://order-up-ml.github.io).
+#### Nov. 2022: Present at Computational and Applied Mathematics (CAM) Seminar at UChicago.
+
+#### Oct. 2022: Two papers are accepted by the NeurIPS Workshop [Higher-Order Optimization in Machine Learning (HOOML) 2022](https://order-up-ml.github.io).
