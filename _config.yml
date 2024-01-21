@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Yuchen Fang"
@@ -83,11 +85,11 @@ author:
   name             : "Yuchen Fang"
   avatar           : "profile.png"
   bio              : "Hello!"
-  location         : "Chicago, IL"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "ycfang@uchicago.edu"
+  email            : "yc_fang@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
