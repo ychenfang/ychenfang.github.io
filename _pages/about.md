@@ -29,3 +29,8 @@ Prior to Berkeley, I received my master's degree in Computational and Applied Ma
 * Nov. 2022: A new paper [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://arxiv.org/abs/2211.15943) is available on arXiv and submitted.
 * Nov. 2022: Present at Computational and Applied Mathematics (CAM) Seminar at UChicago.
 * Oct. 2022: Two papers are accepted by the NeurIPS Workshop [Higher-Order Optimization in Machine Learning (HOOML) 2022](https://order-up-ml.github.io).
+
+
+
+ <a href='http://www.freevisitorcounters.com'>at freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=579ba567a789af4c6faef10d688f47632847fd07'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1129629/t/5"></script>
