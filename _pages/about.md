@@ -32,5 +32,5 @@ Prior to Berkeley, I received my master's degree in Computational and Applied Ma
 
 
 
- <a href='http://www.freevisitorcounters.com'>at freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=579ba567a789af4c6faef10d688f47632847fd07'></script>
+
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1129629/t/5"></script>
