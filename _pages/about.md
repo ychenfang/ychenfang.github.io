@@ -32,5 +32,3 @@ Prior to Berkeley, I received my master's degree in Computational and Applied Ma
 
 
 
-
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1129629/t/5"></script>
