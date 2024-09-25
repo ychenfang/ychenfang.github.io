@@ -18,13 +18,13 @@ Education
 
 Research Papers
 ======
-### Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models
+### [Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models](https://arxiv.org/abs/2409.15734)
 Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
-Submitted to *Operations Research*
+*Submitted*
 
-### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://arxiv.org/abs/2211.15943)
+### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://epubs.siam.org/doi/abs/10.1137/22M1537862)
 Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
-Submitted to *SIAM Journal on Optimization*
+*SIAM Journal on Optimization*, 2024
 
 
 Workshop Papers
@@ -49,11 +49,14 @@ May 2022, "Trust-Region Stochastic Sequential Quadratic Programming for Constrai
 
 Professional Service
 ======
-* Conference Reviewer: 
+* Conference Reviewer:
+  * International Conference on Learning Representations (ICLR) 2024,2025
+  * Conference on Neural Information Processing Systems (NeurIPS) 2023
   * International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
   * Midwest Machine Learning Symposium 2023
-* Grader:
-  * STAT 37710, the University of Chicago, Autumn 2022
+* Teaching:
+  * GSI of Math 1A Calculus, University of California, Berkeley, Fall 2023 - Fall 2024
+  * Grader of STAT 37710, the University of Chicago, Autumn 2022
 
 Skills
 ====
