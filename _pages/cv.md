@@ -20,7 +20,7 @@ Research Papers
 ======
 
 ### [QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs]()
-Santiago Gonzalez, et al. (including Yuchen Fang) 
+Santiago Gonzalez, et al. (including Yuchen Fang)
 *Submitted*
 
 ### [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://drive.google.com/file/d/1o1rnpbwScvndokJ4w6NGLU0swhU0QdEG/view?usp=share_link)
