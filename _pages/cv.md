@@ -18,6 +18,31 @@ Education
 
 Research Papers
 ======
+
+### [QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs]()
+Santiago Gonzalez, et al. (including Yuchen Fang)
+*Submitted*
+
+### [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://drive.google.com/file/d/1o1rnpbwScvndokJ4w6NGLU0swhU0QdEG/view?usp=share_link)
+Roger Hsiao, Yuchen Fang, Xiangru Huang, Ruilong Li, Hesam Rabeti, Zan Gojcic, Javad Lavaei, James Demmel,and Sophia Shao
+*Submitted*
+
+### [Why is Normalization Preferred? A Worst-Case Complexity Theory for Stochastically Preconditioned SGD under Heavy-Tailed Noise](https://drive.google.com/file/d/1rqpsqQoHS0NAJW_CnqiciY9jRBshDTJf/view?usp=share_link)
+Yuchen Fang, James Demmel, and Javad Lavaei
+*Submitted*
+
+### [TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction](https://arxiv.org/pdf/2601.14647)
+Yuchen Fang, Xinshou Zheng, and Javad Lavaei
+*Submitted*
+
+### [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](https://arxiv.org/abs/2505.11688)
+Jihun Kim, Yuchen Fang, and Javad Lavaei
+*Submitted*
+
+### [High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091)
+Yuchen Fang, Javad Lavaei, and Sen Na
+*Submitted*
+
 ### [Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models](https://arxiv.org/abs/2409.15734)
 Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
 *Submitted*
