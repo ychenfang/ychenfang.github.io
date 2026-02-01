@@ -20,7 +20,7 @@ Research Papers
 ======
 
 ### [QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs]()
-Santiago Gonzalez, et al. (including Yuchen Fang)
+Santiago Gonzalez, et al. (including Yuchen Fang)  
 *Submitted*
 
 ### [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://drive.google.com/file/d/1o1rnpbwScvndokJ4w6NGLU0swhU0QdEG/view?usp=share_link)
@@ -40,7 +40,7 @@ Jihun Kim, Yuchen Fang, and Javad Lavaei
 *Submitted*
 
 ### [High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091)
-Yuchen Fang, Javad Lavaei, and Sen Na
+Yuchen Fang, Javad Lavaei, and Sen Na  
 *Submitted*
 
 ### [Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models](https://arxiv.org/abs/2409.15734)
