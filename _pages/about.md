@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the Department of Mathematics at the University of California, Berkeley. I am co-advised by Prof. [James Demmel](https://people.eecs.berkeley.edu/~demmel/) and Prof. [Javad Lavaei](https://lavaei.ieor.berkeley.edu). I also work closely with Prof. [Sen Na](https://senna1128.github.io). I am interested in stochastic optimization, artificial intelligence, and high-performance computing.
+I am a third year Ph.D. student in the Department of Mathematics at the University of California, Berkeley. I am co-advised by Prof. [James Demmel](https://people.eecs.berkeley.edu/~demmel/) and Prof. [Javad Lavaei](https://lavaei.ieor.berkeley.edu). I also work closely with Prof. [Sen Na](https://senna1128.github.io). I am interested in stochastic optimization, artificial intelligence, reinforcement learning, and high-performance computing.
 
 Prior to Berkeley, I obtained my master's degree in Computational and Applied Mathematics from the University of Chicago, where I was advised by Prof. [Mladen Kolar](https://www.chicagobooth.edu/faculty/directory/k/mladen-kolar) and Prof. [Sen Na](https://senna1128.github.io). I also received supervision from Prof. [Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/) and Prof. [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on my master's thesis and research projects. I obtained my bachelor's degree in Statistics from Xiamen University with the supervision from Prof. [Yingxing Li](https://wise.xmu.edu.cn/english/info/1062/1347.htm) on my undergraduate thesis.
 
@@ -18,6 +18,7 @@ Prior to Berkeley, I obtained my master's degree in Computational and Applied Ma
 * high performance computing
 * numerical linear algebra
 * high-dimensional statistics
+* reinforcement learning
 * artificial intelligence
 
 
@@ -25,6 +26,12 @@ Prior to Berkeley, I obtained my master's degree in Computational and Applied Ma
 
 ## News
 
+* Jan. 2026: A new paper about Math Benchmark that I participated in "QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs" is submitted.
+* Jan. 2026: A new paper [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://drive.google.com/file/d/1o1rnpbwScvndokJ4w6NGLU0swhU0QdEG/view?usp=share_link) is submitted.
+* Jan. 2026: A new paper [Why is Normalization Preferred? A Worst-Case Complexity Theory for Stochastically Preconditioned SGD under Heavy-Tailed Noise](https://drive.google.com/file/d/1rqpsqQoHS0NAJW_CnqiciY9jRBshDTJf/view?usp=share_link) is submitted.
+* Jan. 2026: A new paper [TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction](https://arxiv.org/abs/2601.14647) is available on arXiv and submitted.
+* Oct. 2025: I gave a talk at NFORMS Annual Meeting, with the title "High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise"
+* Mar. 2025: A new paper [High Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091) is available on arXiv and submitted.
 * Sep. 2024: A new paper [Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models](https://arxiv.org/abs/2409.15734) is available on arXiv and submitted.
 * Jun. 2024: The paper [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://epubs.siam.org/doi/abs/10.1137/22M1537862) is published online.
 * Jan. 2024: The paper [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://epubs.siam.org/doi/abs/10.1137/22M1537862) is accepted by SIAM Journal on Optimization.
