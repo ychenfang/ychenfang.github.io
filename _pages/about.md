@@ -26,6 +26,7 @@ Prior to Berkeley, I obtained my master's degree in Computational and Applied Ma
 
 ## News
 
+* Mar. 2026: The paper [High Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091) is accepted by Mathematical Programming.
 * Jan. 2026: A new paper about Math Benchmark that I participated in "QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs" is submitted.
 * Jan. 2026: A new paper [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://drive.google.com/file/d/1o1rnpbwScvndokJ4w6NGLU0swhU0QdEG/view?usp=share_link) is submitted.
 * Jan. 2026: A new paper [Why is Normalization Preferred? A Worst-Case Complexity Theory for Stochastically Preconditioned SGD under Heavy-Tailed Noise](https://drive.google.com/file/d/1rqpsqQoHS0NAJW_CnqiciY9jRBshDTJf/view?usp=share_link) is submitted.
