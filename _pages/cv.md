@@ -41,7 +41,7 @@ Jihun Kim, Yuchen Fang, and Javad Lavaei
 
 ### [High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091)
 Yuchen Fang, Javad Lavaei, and Sen Na  
-*Submitted*
+*Mathematical Programming*, 2026
 
 ### [Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models](https://arxiv.org/abs/2409.15734)
 Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
