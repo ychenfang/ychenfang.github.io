@@ -11,21 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Applied Mathematics, University of California, Berkeley, Sep. 2023 - 
+* Ph.D. in Applied Mathematics, University of California, Berkeley, Aug. 2023 - 
 * M.S. in Computational and Applied Mathematics, The University of Chicago, Sep. 2021 - Dec. 2022
 * B.S. in Statistics, Xiamen University, Sep. 2017 - Jun. 2021
 
 
-Research Papers
+Publications
 ======
+
+### [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395)
+Roger Hsiao, Yuchen Fang, Xiangru Huang, Ruilong Li, Hesam Rabeti, Zan Gojcic, Javad Lavaei, James Demmel,and Sophia Shao  
+*ICML 2026*
+
+### [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](https://arxiv.org/abs/2505.11688)
+Jihun Kim, Yuchen Fang, and Javad Lavaei  
+*ICML 2026 (Spotlight)*
 
 ### [QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs]()
 Santiago Gonzalez, et al. (including Yuchen Fang)  
 *ICML 2026*
 
-### [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395)
-Roger Hsiao, Yuchen Fang, Xiangru Huang, Ruilong Li, Hesam Rabeti, Zan Gojcic, Javad Lavaei, James Demmel,and Sophia Shao  
-*ICML 2026*
+### [High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091)
+Yuchen Fang, Javad Lavaei, and Sen Na  
+*Mathematical Programming*, 2026
+
+
+### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://epubs.siam.org/doi/abs/10.1137/22M1537862)
+Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
+*SIAM Journal on Optimization*, 2024
+
+Preprints
+======
+### [A Trust-Region Interior-Point Stochastic Sequential Quadratic Programming Method](https://arxiv.org/abs/2603.10230)
+Yuchen Fang, Jihun Kim, Sen Na, James Demmel, and Javad Lavaei
+*Submitted*
 
 ### [Why is Normalization Preferred? A Worst-Case Complexity Theory for Stochastically Preconditioned SGD under Heavy-Tailed Noise](https://drive.google.com/file/d/1rqpsqQoHS0NAJW_CnqiciY9jRBshDTJf/view?usp=share_link)
 Yuchen Fang, James Demmel, and Javad Lavaei  
@@ -35,22 +54,9 @@ Yuchen Fang, James Demmel, and Javad Lavaei
 Yuchen Fang, Xinshou Zheng, and Javad Lavaei  
 *Submitted*
 
-### [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](https://arxiv.org/abs/2505.11688)
-Jihun Kim, Yuchen Fang, and Javad Lavaei  
-*ICML 2026 (Spotlight)*
-
-### [High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091)
-Yuchen Fang, Javad Lavaei, and Sen Na  
-*Mathematical Programming*, 2026
-
 ### [Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models](https://arxiv.org/abs/2409.15734)
 Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
 *Submitted*
-
-### [Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems](https://epubs.siam.org/doi/abs/10.1137/22M1537862)
-Yuchen Fang, Sen Na, Michael W. Mahoney and Mladen Kolar  
-*SIAM Journal on Optimization*, 2024
-
 
 Workshop Papers
 ======
