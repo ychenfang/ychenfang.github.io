@@ -21,11 +21,11 @@ Research Papers
 
 ### [QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs]()
 Santiago Gonzalez, et al. (including Yuchen Fang)  
-*Submitted*
+*ICML 2026*
 
 ### [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395)
 Roger Hsiao, Yuchen Fang, Xiangru Huang, Ruilong Li, Hesam Rabeti, Zan Gojcic, Javad Lavaei, James Demmel,and Sophia Shao  
-*Submitted*
+*ICML 2026*
 
 ### [Why is Normalization Preferred? A Worst-Case Complexity Theory for Stochastically Preconditioned SGD under Heavy-Tailed Noise](https://drive.google.com/file/d/1rqpsqQoHS0NAJW_CnqiciY9jRBshDTJf/view?usp=share_link)
 Yuchen Fang, James Demmel, and Javad Lavaei  
@@ -37,7 +37,7 @@ Yuchen Fang, Xinshou Zheng, and Javad Lavaei
 
 ### [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](https://arxiv.org/abs/2505.11688)
 Jihun Kim, Yuchen Fang, and Javad Lavaei  
-*Submitted*
+*ICML 2026 (Spotlight)*
 
 ### [High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091)
 Yuchen Fang, Javad Lavaei, and Sen Na  
