@@ -19,17 +19,13 @@ Education
 Publications
 ======
 
-### [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395)
-Roger Hsiao, Yuchen Fang, Xiangru Huang, Ruilong Li, Hesam Rabeti, Zan Gojcic, Javad Lavaei, James Demmel,and Sophia Shao  
-*ICML 2026*
+
 
 ### [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](https://arxiv.org/abs/2505.11688)
 Jihun Kim, Yuchen Fang, and Javad Lavaei  
 *ICML 2026 (Spotlight)*
 
-### [QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs]()
-Santiago Gonzalez, et al. (including Yuchen Fang)  
-*ICML 2026*
+
 
 ### [High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091)
 Yuchen Fang, Javad Lavaei, and Sen Na  
@@ -80,16 +76,7 @@ May 2022, "Trust-Region Stochastic Sequential Quadratic Programming for Constrai
 
 Professional Service
 ======
-* Conference Reviewer:
-  * International Conference on Learning Representations (ICLR) 2024,2025
-  * Conference on Neural Information Processing Systems (NeurIPS) 2023
-  * International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
-  * Midwest Machine Learning Symposium 2023
 * Teaching:
   * GSI of Math 1A Calculus, University of California, Berkeley, Fall 2023 - Fall 2024
   * Grader of STAT 37710, the University of Chicago, Autumn 2022
 
-Skills
-====
-* Programming Languages: R, Python, MATLAB, Julia, C, LaTeX
-* Languages: Native in Mandarin, fluent in English
