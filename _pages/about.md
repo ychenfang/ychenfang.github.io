@@ -23,11 +23,9 @@ Prior to Berkeley, I obtained my master's degree in Computational and Applied Ma
 
 ## News
 
-%* May 2026: Threes papers ([QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs](https://arxiv.org/abs/2602.20629), [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395), and [On the sharp input-output analysis of nonlinear systems under adversarial attacks](https://arxiv.org/abs/2505.11688)) accepted by ICML 2026.
+
 * Mar. 2026: A new paper [A Trust-Region Interior-Point Stochastic Sequential Quadratic Programming Method](https://arxiv.org/abs/2603.10230) is available on arXiv and submitted.
 * Mar. 2026: The paper [High Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091) is accepted by Mathematical Programming.
-* Jan. 2026: A new paper about Math Benchmark that I participated in [QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs](https://arxiv.org/abs/2602.20629) is submitted.
-* Jan. 2026: A new paper [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395) is submitted.
 * Jan. 2026: A new paper [Why is Normalization Preferred? A Worst-Case Complexity Theory for Stochastically Preconditioned SGD under Heavy-Tailed Noise](https://drive.google.com/file/d/1rqpsqQoHS0NAJW_CnqiciY9jRBshDTJf/view?usp=share_link) is submitted.
 * Jan. 2026: A new paper [TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction](https://arxiv.org/abs/2601.14647) is available on arXiv and submitted.
 * Oct. 2025: I gave a talk at NFORMS Annual Meeting, with the title "High-Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise"
