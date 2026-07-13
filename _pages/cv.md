@@ -20,7 +20,6 @@ Publications
 ======
 
 
-
 ### [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](https://arxiv.org/abs/2505.11688)
 Jihun Kim, Yuchen Fang, and Javad Lavaei  
 *ICML 2026 (Spotlight)*
