@@ -8,25 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the Department of Mathematics at the University of California, Berkeley. I am co-advised by Prof. [James Demmel](https://people.eecs.berkeley.edu/~demmel/) and Prof. [Javad Lavaei](https://lavaei.ieor.berkeley.edu). I also work closely with Prof. [Sen Na](https://senna1128.github.io). I am interested in stochastic optimization, artificial intelligence, reinforcement learning, and high-performance computing.
+I am a third year Ph.D. student in the Department of Mathematics at the University of California, Berkeley. I am co-advised by Prof. [James Demmel](https://people.eecs.berkeley.edu/~demmel/) and Prof. [Javad Lavaei](https://lavaei.ieor.berkeley.edu). 
+
 
 Prior to Berkeley, I obtained my master's degree in Computational and Applied Mathematics from the University of Chicago, where I was advised by Prof. [Mladen Kolar](https://www.chicagobooth.edu/faculty/directory/k/mladen-kolar) and Prof. [Sen Na](https://senna1128.github.io). I also received supervision from Prof. [Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/) and Prof. [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on my master's thesis and research projects. I obtained my bachelor's degree in Statistics from Xiamen University with the supervision from Prof. [Yingxing Li](https://wise.xmu.edu.cn/english/info/1062/1347.htm) on my undergraduate thesis.
 
 ## Research Interests
 
 * stochastic nonlinear optimization
-* high performance computing
 * numerical linear algebra
-* high-dimensional statistics
-* reinforcement learning
-* artificial intelligence
 
 
 
 
 ## News
 
-* May 2026: Threes papers ([QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs](https://arxiv.org/abs/2602.20629), [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395), and [On the sharp input-output analysis of nonlinear systems under adversarial attacks](https://arxiv.org/abs/2505.11688)) accepted by ICML 2026.
+%* May 2026: Threes papers ([QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs](https://arxiv.org/abs/2602.20629), [3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395), and [On the sharp input-output analysis of nonlinear systems under adversarial attacks](https://arxiv.org/abs/2505.11688)) accepted by ICML 2026.
 * Mar. 2026: A new paper [A Trust-Region Interior-Point Stochastic Sequential Quadratic Programming Method](https://arxiv.org/abs/2603.10230) is available on arXiv and submitted.
 * Mar. 2026: The paper [High Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](https://arxiv.org/abs/2503.19091) is accepted by Mathematical Programming.
 * Jan. 2026: A new paper about Math Benchmark that I participated in [QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs](https://arxiv.org/abs/2602.20629) is submitted.
